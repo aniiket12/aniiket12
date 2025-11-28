@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/aniiket12/aniiket12/blob/a5cbfd88c191686b2ecc9e397b94b9a2b2df586d/e9046f1d-3075-4c46-92e8-899087aa3a10.png" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A data engineer who enjoys turning chaotic raw data into reliable, meaningful pipelines.</h3>
 
